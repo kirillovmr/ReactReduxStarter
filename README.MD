@@ -17,7 +17,7 @@ Clone this repo and install dependent packages
 > git clone https://github.com/kirillovmr/ReactReduxStarter.git
 > cd ReactReduxStarter
 > npm install
-> npm start
+> npm run dev
 ```
 
 #### Not Familiar with Git?
@@ -25,7 +25,7 @@ Clone this repo and install dependent packages
 
 ```
 > npm install
-> npm start
+> npm run dev
 ```
 
 ### Credits
